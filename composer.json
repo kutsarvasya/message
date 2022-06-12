@@ -1,15 +1,18 @@
 {
-    "name": "v/my-p",
-    "autoload": {
-        "psr-4": {
-            "V\\MyP\\": "src/"
-        }
-    },
+    "name": "kutsar/message",
+    "homepage": "https://github.com/kutsarvasya/message",
     "authors": [
         {
             "name": "kutsarvasya",
             "email": "vkutsar89@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kutsar\\Greeter": "src/"
+        }
+    }
 }
