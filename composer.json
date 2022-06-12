@@ -1,0 +1,15 @@
+{
+    "name": "v/my-p",
+    "autoload": {
+        "psr-4": {
+            "V\\MyP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kutsarvasya",
+            "email": "vkutsar89@gmail.com"
+        }
+    ],
+    "require": {}
+}
