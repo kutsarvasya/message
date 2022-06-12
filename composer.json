@@ -1,6 +1,7 @@
 {
     "name": "kutsar/message",
     "homepage": "https://github.com/kutsarvasya/message",
+    "license": "proprietary",
     "authors": [
         {
             "name": "kutsarvasya",
