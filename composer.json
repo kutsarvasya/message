@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kutsar\\Greeter": "src/"
+            "Kutsar\\Message\\": "src/"
         }
     }
 }
